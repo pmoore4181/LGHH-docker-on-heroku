@@ -1,0 +1,18 @@
+{
+  "name": "lghh",
+  "version": "1.0.0",
+  "description": "Lower Greenville Happy Hour",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pmoore4181/LGHH-jenkins.git"
+  },
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
